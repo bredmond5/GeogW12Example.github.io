@@ -1,1 +1,1 @@
-# GeogW12Example.github.io
+Map of my Favorite Destinations
