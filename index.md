@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Geog W12 Lab 7</title>
@@ -16,7 +15,7 @@
 <body align="center">
   <div id="main">
     <div>
-      <p>&nbsp;</p>
+<!--       <p>&nbsp;</p> -->
       <hr>
       <p id="title">My Favorite Destinations</p>
       <p id="title_name">
