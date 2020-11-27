@@ -15,7 +15,7 @@
 <body align="center">
   <div id="main">
     <div>
-      <p>&nbsp;</p>
+<!--       <p>&nbsp;</p> -->
       <hr>
       <p id="title">My Favorite Destinations</p>
       <p id="title_name">
